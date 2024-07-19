@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/sudha2327/LeetCode-solution/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
