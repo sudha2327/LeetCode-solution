@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sudha2327/LeetCode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sudha2327/LeetCode-solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sudha2327/LeetCode-solution/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sudha2327/LeetCode-solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sudha2327/LeetCode-solution/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sudha2327/LeetCode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sudha2327/LeetCode-solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sudha2327/LeetCode-solution/tree/master/0055-jump-game) |
 ## Monotonic Stack
 |  |
 | ------- |
