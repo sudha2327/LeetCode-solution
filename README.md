@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sudha2327/LeetCode-solution/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sudha2327/LeetCode-solution/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/sudha2327/LeetCode-solution/tree/master/0197-rising-temperature) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sudha2327/LeetCode-solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
