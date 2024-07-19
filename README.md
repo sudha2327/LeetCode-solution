@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sudha2327/LeetCode-solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudha2327/LeetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/sudha2327/LeetCode-solution/tree/master/0278-first-bad-version) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sudha2327/LeetCode-solution/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sudha2327/LeetCode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
