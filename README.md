@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudha2327/LeetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sudha2327/LeetCode-solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sudha2327/LeetCode-solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/sudha2327/LeetCode-solution/tree/master/0274-h-index) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sudha2327/LeetCode-solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudha2327/LeetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/sudha2327/LeetCode-solution/tree/master/0278-first-bad-version) |
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sudha2327/LeetCode-solution/tree/master/0238-product-of-array-except-self) |
 ## Counting Sort
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
