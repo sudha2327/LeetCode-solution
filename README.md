@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudha2327/LeetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sudha2327/LeetCode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sudha2327/LeetCode-solution/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudha2327/LeetCode-solution/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sudha2327/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sudha2327/LeetCode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/sudha2327/LeetCode-solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sudha2327/LeetCode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -186,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudha2327/LeetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
