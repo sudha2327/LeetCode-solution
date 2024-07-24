@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sudha2327/LeetCode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sudha2327/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/sudha2327/LeetCode-solution/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/sudha2327/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudha2327/LeetCode-solution/tree/master/0217-contains-duplicate) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sudha2327/LeetCode-solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sudha2327/LeetCode-solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sudha2327/LeetCode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sudha2327/LeetCode-solution/tree/master/0053-maximum-subarray) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sudha2327/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sudha2327/LeetCode-solution/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
