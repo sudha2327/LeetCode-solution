@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sudha2327/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sudha2327/LeetCode-solution/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sudha2327/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudha2327/LeetCode-solution/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sudha2327/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sudha2327/LeetCode-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sudha2327/LeetCode-solution/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudha2327/LeetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sudha2327/LeetCode-solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sudha2327/LeetCode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sudha2327/LeetCode-solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
