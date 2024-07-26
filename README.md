@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sudha2327/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sudha2327/LeetCode-solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sudha2327/LeetCode-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sudha2327/LeetCode-solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/sudha2327/LeetCode-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sudha2327/LeetCode-solution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sudha2327/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sudha2327/LeetCode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -213,4 +215,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sudha2327/LeetCode-solution/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sudha2327/LeetCode-solution/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sudha2327/LeetCode-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
