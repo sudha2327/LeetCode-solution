@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sudha2327/LeetCode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sudha2327/LeetCode-solution/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
