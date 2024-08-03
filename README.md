@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sudha2327/LeetCode-solution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sudha2327/LeetCode-solution/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudha2327/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/sudha2327/LeetCode-solution/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sudha2327/LeetCode-solution/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
