@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sudha2327/LeetCode-solution/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudha2327/LeetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/sudha2327/LeetCode-solution/tree/master/0278-first-bad-version) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sudha2327/LeetCode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sudha2327/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sudha2327/LeetCode-solution/tree/master/0274-h-index) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
 | ------- |
