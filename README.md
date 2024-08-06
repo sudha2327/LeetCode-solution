@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sudha2327/LeetCode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sudha2327/LeetCode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sudha2327/LeetCode-solution/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudha2327/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sudha2327/LeetCode-solution/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sudha2327/LeetCode-solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sudha2327/LeetCode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudha2327/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudha2327/LeetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sudha2327/LeetCode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0189-rotate-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sudha2327/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sudha2327/LeetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sudha2327/LeetCode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudha2327/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sudha2327/LeetCode-solution/tree/master/0155-min-stack) |
 ## Linked List
 |  |
