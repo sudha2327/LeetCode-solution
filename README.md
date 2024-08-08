@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sudha2327/LeetCode-solution/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0921-spiral-matrix-iii](https://github.com/sudha2327/LeetCode-solution/tree/master/0921-spiral-matrix-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -293,12 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sudha2327/LeetCode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/sudha2327/LeetCode-solution/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/sudha2327/LeetCode-solution/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sudha2327/LeetCode-solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sudha2327/LeetCode-solution/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/sudha2327/LeetCode-solution/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/sudha2327/LeetCode-solution/tree/master/0921-spiral-matrix-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
