@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/sudha2327/LeetCode-solution/tree/master/1480-movie-rating) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/sudha2327/LeetCode-solution/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/sudha2327/LeetCode-solution/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/sudha2327/LeetCode-solution/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/sudha2327/LeetCode-solution/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/sudha2327/LeetCode-solution/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/sudha2327/LeetCode-solution/tree/master/1942-primary-department-for-each-employee) |
