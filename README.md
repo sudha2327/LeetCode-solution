@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/sudha2327/LeetCode-solution/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/sudha2327/LeetCode-solution/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/sudha2327/LeetCode-solution/tree/master/1452-restaurant-growth) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/sudha2327/LeetCode-solution/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/sudha2327/LeetCode-solution/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/sudha2327/LeetCode-solution/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/sudha2327/LeetCode-solution/tree/master/1670-patients-with-a-condition) |
