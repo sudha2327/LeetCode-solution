@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/sudha2327/LeetCode-solution/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sudha2327/LeetCode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sudha2327/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sudha2327/LeetCode-solution/tree/master/0274-h-index) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
