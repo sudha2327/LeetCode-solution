@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudha2327/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sudha2327/LeetCode-solution/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0624-maximum-distance-in-arrays](https://github.com/sudha2327/LeetCode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sudha2327/LeetCode-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/sudha2327/LeetCode-solution/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sudha2327/LeetCode-solution/tree/master/0890-lemonade-change) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sudha2327/LeetCode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sudha2327/LeetCode-solution/tree/master/0135-candy) |
+| [0624-maximum-distance-in-arrays](https://github.com/sudha2327/LeetCode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/sudha2327/LeetCode-solution/tree/master/0890-lemonade-change) |
 ## Trie
 |  |
