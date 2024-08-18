@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sudha2327/LeetCode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sudha2327/LeetCode-solution/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/sudha2327/LeetCode-solution/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sudha2327/LeetCode-solution/tree/master/0383-ransom-note) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sudha2327/LeetCode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sudha2327/LeetCode-solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sudha2327/LeetCode-solution/tree/master/0224-basic-calculator) |
+| [0264-ugly-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/sudha2327/LeetCode-solution/tree/master/0870-magic-squares-in-grid) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudha2327/LeetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sudha2327/LeetCode-solution/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Monotonic Stack
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sudha2327/LeetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
