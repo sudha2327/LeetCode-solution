@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sudha2327/LeetCode-solution/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudha2327/LeetCode-solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0650-2-keys-keyboard](https://github.com/sudha2327/LeetCode-solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/sudha2327/LeetCode-solution/tree/master/0870-magic-squares-in-grid) |
 ## String
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/sudha2327/LeetCode-solution/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sudha2327/LeetCode-solution/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Monotonic Stack
 |  |
