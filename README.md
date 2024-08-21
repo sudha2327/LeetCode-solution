@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sudha2327/LeetCode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
+| [0664-strange-printer](https://github.com/sudha2327/LeetCode-solution/tree/master/0664-strange-printer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/sudha2327/LeetCode-solution/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/sudha2327/LeetCode-solution/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sudha2327/LeetCode-solution/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Monotonic Stack
