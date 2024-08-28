@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/sudha2327/LeetCode-solution/tree/master/1325-path-with-maximum-probability) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sudha2327/LeetCode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/sudha2327/LeetCode-solution/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sudha2327/LeetCode-solution/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/sudha2327/LeetCode-solution/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sudha2327/LeetCode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/sudha2327/LeetCode-solution/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sudha2327/LeetCode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sudha2327/LeetCode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/sudha2327/LeetCode-solution/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sudha2327/LeetCode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sudha2327/LeetCode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/sudha2327/LeetCode-solution/tree/master/2035-count-sub-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/sudha2327/LeetCode-solution/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
