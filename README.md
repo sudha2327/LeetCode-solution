@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sudha2327/LeetCode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0870-magic-squares-in-grid](https://github.com/sudha2327/LeetCode-solution/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/sudha2327/LeetCode-solution/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sudha2327/LeetCode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sudha2327/LeetCode-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/sudha2327/LeetCode-solution/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sudha2327/LeetCode-solution/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/sudha2327/LeetCode-solution/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sudha2327/LeetCode-solution/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/1240-stone-game-ii) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sudha2327/LeetCode-solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/sudha2327/LeetCode-solution/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sudha2327/LeetCode-solution/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/sudha2327/LeetCode-solution/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sudha2327/LeetCode-solution/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sudha2327/LeetCode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sudha2327/LeetCode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
