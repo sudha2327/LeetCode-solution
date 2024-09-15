@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/sudha2327/LeetCode-solution/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sudha2327/LeetCode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sudha2327/LeetCode-solution/tree/master/0999-regions-cut-by-slashes) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sudha2327/LeetCode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sudha2327/LeetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/sudha2327/LeetCode-solution/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sudha2327/LeetCode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/sudha2327/LeetCode-solution/tree/master/0664-strange-printer) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sudha2327/LeetCode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sudha2327/LeetCode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sudha2327/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sudha2327/LeetCode-solution/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sudha2327/LeetCode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sudha2327/LeetCode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting Sort
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sudha2327/LeetCode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/sudha2327/LeetCode-solution/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sudha2327/LeetCode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Memoization
 |  |
 | ------- |
