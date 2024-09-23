@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sudha2327/LeetCode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sudha2327/LeetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/2755-extra-characters-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/sudha2327/LeetCode-solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sudha2327/LeetCode-solution/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sudha2327/LeetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sudha2327/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/sudha2327/LeetCode-solution/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sudha2327/LeetCode-solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/sudha2327/LeetCode-solution/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/sudha2327/LeetCode-solution/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sudha2327/LeetCode-solution/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/sudha2327/LeetCode-solution/tree/master/2755-extra-characters-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
