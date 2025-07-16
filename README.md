@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/sudha2327/LeetCode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/sudha2327/LeetCode-solution/tree/master/0664-strange-printer) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sudha2327/LeetCode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1894-merge-strings-alternately](https://github.com/sudha2327/LeetCode-solution/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sudha2327/LeetCode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sudha2327/LeetCode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sudha2327/LeetCode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sudha2327/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sudha2327/LeetCode-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sudha2327/LeetCode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1894-merge-strings-alternately](https://github.com/sudha2327/LeetCode-solution/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
